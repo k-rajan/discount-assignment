@@ -1,6 +1,6 @@
 # discount-assignment
 
-###Coding assignment
+### Coding assignment
 
 Code is build using java (jdk 1.8) with maven build tool
 
@@ -9,6 +9,9 @@ Code is build using java (jdk 1.8) with maven build tool
 
 Also can use following command for running app:
 java -jar target/discount-1.0-SNAPSHOT.jar
+
+### Test
+A sample test is provided at rc/test/java/shopping/InventoryListTest.java to demonstrate it works against sampple input.
 
 ### Sample input
  Provide input in format as specified in the assignment task:
